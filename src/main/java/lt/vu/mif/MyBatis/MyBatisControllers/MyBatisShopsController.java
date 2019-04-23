@@ -11,7 +11,7 @@ import javax.inject.Inject;
 import java.util.ArrayList;
 import java.util.List;
 
-@Model
+@Model // tas pats kaip: @Named ir @RequestScoped
 public class MyBatisShopsController {
 
     @Inject

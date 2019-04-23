@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
           <value>
             <set />
@@ -38,7 +43,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/lt/vu/mif/MyBatis/Mappers/ShopCarMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/lt/vu/mif/MyBatis/Mappers/ShopsCarsMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/lt/vu/mif/MyBatis/Mappers/ShopsMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/lt/vu/mif/MyBatis/MyBatisControllers/MyBatisCarsController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/lt/vu/mif/MyBatis/MyBatisControllers/MyBatisShopsController.java">
           <value>
             <set />
           </value>
@@ -49,6 +74,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/lt/vu/mif/MyBatis/ViewModels/Drivers.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/lt/vu/mif/MyBatis/ViewModels/ShopCar.java">
           <value>
             <set />
           </value>
@@ -68,12 +98,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/MyBatisConfig.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/generatorConfig.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/resources/mybatis.xml/CarsMapper.xml">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/resources/mybatis.xml/DriversMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/mybatis.xml/ShopCarMapper.xml">
           <value>
             <set />
           </value>
@@ -109,6 +154,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../pskAtsiskaitymas/src/main/resources/META-INF/persistence.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pskAtsiskaitymas/src/main/resources/mybatis/xml/TeamMapper.xml">
           <value>
             <set />
           </value>

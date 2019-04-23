@@ -33,6 +33,7 @@
         <mapper resource="mybatis.xml/CarsMapper.xml" />
         <mapper resource="mybatis.xml/ShopsMapper.xml" />
         <mapper resource="mybatis.xml/DriversMapper.xml" />
+        <mapper resource="mybatis.xml/ShopCarMapper.xml"/>
     </mappers>
 
 </configuration>

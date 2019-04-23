@@ -6,12 +6,14 @@ C:\Users\aku\Documents\PSK-TP\src\main\java\lt\vu\mif\MyBatis\MyBatisResources.j
 C:\Users\aku\Documents\PSK-TP\src\main\java\lt\vu\mif\Controllers\ShopController.java
 C:\Users\aku\Documents\PSK-TP\src\main\java\lt\vu\mif\Entities\Car.java
 C:\Users\aku\Documents\PSK-TP\src\main\java\lt\vu\mif\MyBatis\ViewModels\Cars.java
+C:\Users\aku\Documents\PSK-TP\src\main\java\lt\vu\mif\MyBatis\ViewModels\ShopCar.java
 C:\Users\aku\Documents\PSK-TP\src\main\java\lt\vu\mif\Controllers\DriverController.java
 C:\Users\aku\Documents\PSK-TP\src\main\java\lt\vu\mif\MyBatis\MyBatisControllers\MyBatisDriversController.java
 C:\Users\aku\Documents\PSK-TP\src\main\java\lt\vu\mif\Entities\Driver.java
 C:\Users\aku\Documents\PSK-TP\src\main\java\lt\vu\mif\MyBatis\Mappers\DriversMapper.java
 C:\Users\aku\Documents\PSK-TP\src\main\java\lt\vu\mif\MyBatis\MyBatisControllers\MyBatisCarsController.java
 C:\Users\aku\Documents\PSK-TP\src\main\java\lt\vu\mif\Controllers\CarController.java
+C:\Users\aku\Documents\PSK-TP\src\main\java\lt\vu\mif\MyBatis\Mappers\ShopCarMapper.java
 C:\Users\aku\Documents\PSK-TP\src\main\java\lt\vu\mif\MyBatis\Mappers\ShopsMapper.java
 C:\Users\aku\Documents\PSK-TP\src\main\java\lt\vu\mif\MyBatis\ViewModels\Drivers.java
 C:\Users\aku\Documents\PSK-TP\src\main\java\lt\vu\mif\Repositories\CarRepository.java

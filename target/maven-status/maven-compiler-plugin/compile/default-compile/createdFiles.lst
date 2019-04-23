@@ -11,9 +11,11 @@ lt\vu\mif\MyBatis\ViewModels\Drivers.class
 lt\vu\mif\Controllers\DriverController.class
 lt\vu\mif\MyBatis\MyBatisControllers\MyBatisShopsController.class
 lt\vu\mif\Repositories\DriverRepository.class
+lt\vu\mif\MyBatis\Mappers\ShopCarMapper.class
 lt\vu\mif\MyBatis\MyBatisControllers\MyBatisCarsController.class
 lt\vu\mif\Entities\Shop.class
 lt\vu\mif\MyBatis\Mappers\DriversMapper.class
 lt\vu\mif\Controllers\ShopController.class
 lt\vu\mif\Repositories\CarRepository.class
+lt\vu\mif\MyBatis\ViewModels\ShopCar.class
 lt\vu\mif\Repositories\ShopRepository.class

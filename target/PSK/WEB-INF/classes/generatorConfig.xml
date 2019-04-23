@@ -27,5 +27,7 @@
         <table schema="public" tableName="drivers">
             <generatedKey column="id" identity="true" sqlStatement="JDBC" />
         </table>
+        <table schema="public" tableName="shops_cars">
+        </table>
     </context>
 </generatorConfiguration>
