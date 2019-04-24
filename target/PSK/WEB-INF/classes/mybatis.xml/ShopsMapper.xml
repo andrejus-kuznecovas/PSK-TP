@@ -11,8 +11,7 @@
     <result column="ADDRESS" jdbcType="VARCHAR" property="address" />
     <result column="NAME" jdbcType="VARCHAR" property="name" />
 
-    <collection property="cars" javaType="ArrayList" column="ID" ofType="Car" select="selectCarsForShop"/>
-    <collection property="drivers" javaType="ArrayList" column="ID" ofType="Driver" select="selectCarsOfDriver"/>
+    <collection property="carsOfDriver" javaType="ArrayList" column="ID" ofType="lt.vu.mif.MyBatis.ViewModels.Cars" select="selectCarsOfDriver"/>
 
   </resultMap>
   <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer">
@@ -64,7 +63,7 @@
     from PUBLIC.SHOPS
   </select>
 
-  <select id="selectCarsForShop" resultType="Cars">
+  <select id="selectCarsForShop" resultType="lt.vu.mif.MyBatis.ViewModels.Cars">
     SELECT
       c.ID,
       c.MANUFACTURER,
@@ -74,12 +73,4 @@
     WHERE c1.SHOPS_ID = #{id,jdbcType=INTEGER}
   </select>
 
-  <select id="selectCarsOfDriver" resultType="Cars">
-    SELECT
-      p.ID,
-      p.MANUFACTURER,
-      p.MODEL
-    FROM public.Cars p
-    WHERE p.DRIVER_ID = #{id,jdbcType=INTEGER}
-  </select>
 </mapper>
